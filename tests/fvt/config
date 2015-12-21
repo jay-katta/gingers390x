@@ -1,5 +1,5 @@
 [CIO_IGNORE]
-devices : [1, "10 - 90"]
+devices : [1, "10 - 90", "0.1.1000"]
 
 [Network I/O Devices]
 configured_device : enccw0.0.1530

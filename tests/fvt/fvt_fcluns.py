@@ -8,7 +8,7 @@ class TestFCLuns(TestBase):
                       "properties": {"status": {"type": "string"},
                                      "product": {"type": "string"},
                                      "vendor": {"type": "string"},
-                                     "configured": {"type": "boolean"},
+                                     "configured": {"type": "string"},
                                      "hbaId": {"type": "string"},
                                      "remoteWwpn": {"type": "string"},
                                      "controllerSN": {"type": "string"},

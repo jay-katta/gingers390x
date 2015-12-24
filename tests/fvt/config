@@ -8,8 +8,8 @@ unconfigured_device : 0.0.1506
 [Storage I/O Devices]
 online_dasdeckd_device : 0.0.5112
 offline_dasdeckd_device : 0.0.5111
-online_zfcp_device : 0.0.3081
-offline_zfcp_device : 0.0.3082
+online_zfcp_device : 0.0.3083
+offline_zfcp_device : 0.0.3084
 
 [FCLUNs]
 hba_id : 0.0.3080

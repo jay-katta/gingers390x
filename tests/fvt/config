@@ -2,14 +2,14 @@
 devices : [1, "10 - 90", "0.1.1000"]
 
 [Network I/O Devices]
-configured_device : enccw0.0.1530
-unconfigured_device : 0.0.1506
+configured_device : enccw0.0.1506
+unconfigured_device : 0.0.1536
 
 [Storage I/O Devices]
-online_dasdeckd_device : 0.0.5112
-offline_dasdeckd_device : 0.0.5111
-online_zfcp_device : 0.0.3083
-offline_zfcp_device : 0.0.3084
+online_dasdeckd_device : 0.0.5151
+offline_dasdeckd_device : 0.0.5152
+online_zfcp_device : 0.0.3092
+offline_zfcp_device : 0.0.3091
 
 [FCLUNs]
 hba_id : 0.0.3080

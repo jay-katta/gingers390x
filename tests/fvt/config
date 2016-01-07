@@ -12,7 +12,7 @@ online_zfcp_device : 0.0.3092
 offline_zfcp_device : 0.0.3091
 
 [FCLUNs]
-hba_id : 0.0.3080
-remote_wwpn : 0x5005076802160417
-lun_id : 0x0002000000000000
+hba_id : 0.0.3092
+remote_wwpn : 0x5001738030290150
+lun_id : 0x0000000000000000
 

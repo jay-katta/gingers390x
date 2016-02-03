@@ -2,7 +2,7 @@
 devices : [1, "10 - 90", "0.1.1000"]
 
 [Network I/O Devices]
-configured_device : enccw0.0.1506
+configured_device : enccw0.0.1539
 unconfigured_device : 0.0.1536
 
 [Storage I/O Devices]

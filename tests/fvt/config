@@ -2,8 +2,8 @@
 devices : [1, "10 - 90", "0.1.1000"]
 
 [Network I/O Devices]
-configured_device : enccw0.0.1539
-unconfigured_device : 0.0.1536
+configured_device : enccw0.0.1506
+unconfigured_device : 0.0.1539
 
 [Storage I/O Devices]
 online_dasdeckd_device : 0.0.5151
